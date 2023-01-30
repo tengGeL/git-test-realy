@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println(" hot-fix  test");
         System.out.println(" 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 ");
         System.out.println(" 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 ");
+        System.out.println(" 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 ");
     }
 }
